@@ -1,0 +1,6 @@
+{
+  "name": "novabrowser",
+  "description": "NovaBrowser — Production-Oriented Desktop Browser for Windows 10/11 x64 (v0.0.1)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
